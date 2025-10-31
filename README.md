@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassan Qureshi</h1>
+<h1 align="center">Hi 👋, I'm Akbar Qureshi</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Passionate Learner</h3>
 
 ---
