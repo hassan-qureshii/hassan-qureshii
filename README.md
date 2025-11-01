@@ -44,10 +44,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/akbar-qureshi-8634b530b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-theta-hazel-i717o3xaea.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanqureshi8886@gmail.com)
-
----
-
-### ✨ Fun Section
-> “Code, Commit, Repeat — Every day a step closer to mastery.”
-
-![GitHub Snake Animation](https://github.com/hassan-qureshii/hassan-qureshii/blob/output/github-contribution-grid-snake.svg)
