@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Akbar Qureshi</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Passionate Learner</h3>
+<h3 align="center">MERN stack | Next.js | React.js & Vue.js | TypeScript Developer | Passionate Learner</h3>
+
+
+### About Me
+-  I’m currently learning **MERN Stack, TypeScript & UI/UX Design**
+-  I love building **interactive and responsive web apps**
+-  Working daily on personal & open-source projects
+-  Fun fact: I believe **consistency is the key to success**
 
 ---
 
-### 💫 About Me
-- 🌱 I’m currently learning **MERN Stack, TypeScript & UI/UX Design**
-- 💻 I love building **interactive and responsive web apps**
-- 🔭 Working daily on personal & open-source projects
-- ⚡ Fun fact: I believe **consistency is the key to success**
-
----
-
-### 🧰 Tech Stack
+### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,12 +27,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=hassan-qureshii&theme=onedark&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hassan-qureshii&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hassan-qureshii&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-qureshii&theme=react&hide_border=false&layout=compact)
