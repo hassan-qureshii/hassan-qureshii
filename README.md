@@ -3,10 +3,7 @@
 
 
 ### About Me
--  I’m currently learning **MERN Stack, TypeScript & UI/UX Design**
--  I love building **interactive and responsive web apps**
--  Working daily on personal & open-source projects
--  Fun fact: I believe **consistency is the key to success**
+Hi, I’m Akbar Qureshi, a passionate MERN Stack Developer and frontend specialist with a strong focus on building modern, scalable, and interactive web applications. I specialize in React.js, Vue.js, Tailwind CSS, and TypeScript, creating sleek user interfaces and seamless user experiences. Currently, I’m expanding my expertise by learning Next.js to deliver blazing‑fast, production‑ready applications. I enjoy crafting dashboards, optimizing workflows, and blending design with functionality to build projects that are both visually appealing and technically robust. Always curious and driven, I thrive on continuous learning and pushing the boundaries of frontend development.
 
 ---
 
