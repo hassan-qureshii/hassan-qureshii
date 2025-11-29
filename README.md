@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akbar Qureshi</h1>
-<h3 align="center">MERN stack | Next.js | React.js & Vue.js | TypeScript Developer | Passionate Learner</h3>
+<h3 align="center">MERN Stack Developer | Frontend Specialist in React, Vue, Tailwind & TypeScript | Exploring Next.js for scalable apps.</h3>
 
 
 ### About Me
