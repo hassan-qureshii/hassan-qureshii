@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akbar Qureshi</h1>
+<h1 align="center">Hi , I'm Akbar Qureshi</h1>
 <h3 align="center">MERN stack | Next.js | React.js & Vue.js | TypeScript Developer | Passionate Learner</h3>
 
 
